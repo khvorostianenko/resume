@@ -1,0 +1,4 @@
+khvorostianenko
+git3765389
+Íîðìàëüíûé ìàíóàë:
+https://www.blend4web.com/doc/ru/git_short_manual.html#before-the-commit
